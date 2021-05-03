@@ -1,0 +1,20 @@
+"deathmatch"
+{
+	"base"			"base"
+	"title"			"Deathmatch"
+	"maps"			"^dm_"
+	"menusystem"	"1"
+	"workshopid"	""
+
+	"Settings"
+		{
+			1
+			{
+				"name" "ex_test"
+				"text" "Test"
+				"help"	"Test?"
+				"type"	"numeric"
+				"default"	"1"
+			}
+		}
+}
